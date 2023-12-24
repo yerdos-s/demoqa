@@ -1,3 +1,4 @@
-# demoqa
-This repo consists of automated test cases of DemoQA web forms and DempQA API endpoits (see demoqa_web_form_testing and demoqa_API_testing folders)
-Stack used: Selenium, Python, Pytest, requests, allure
+# demoqa (UI and API tests), Appium app tests
+This repo consists of UI, API and mobile app automated test cases.
+
+Stack: Selenium, Python, Pytest, Appium-Python-Client, requests, allure
