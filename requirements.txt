@@ -5,3 +5,5 @@ pytest-order
 allure-pytest
 selenium
 webdriver_manager
+Appium-Python-Client
+pytest-order
