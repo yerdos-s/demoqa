@@ -3,3 +3,5 @@ jsonpath
 pytest
 pytest-order
 allure-pytest
+selenium
+webdriver_manager
